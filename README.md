@@ -1,0 +1,1 @@
+# Loomidex - A resource for competitve loomian legacy players [Early WIP]
